@@ -1,0 +1,14 @@
+STEP-1
+Extract the `example-app.rar` file.
+
+STEP-2
+Extract the `node_modules.rar` file.
+
+STEP-3
+Move the extracted `node_modules` directory to the extracted `example-app` directory.
+
+Step-4
+Open the extracted `example-app` directory with Visual Studio Code.
+
+
+"I'm really sorry for the inconvenience."
